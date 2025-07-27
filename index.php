@@ -1,3 +1,3 @@
 <?php 
-    echo 'Hello from feature A, Git!'; 
+    echo 'Hello from both features, Git!';
 ?>
